@@ -34,7 +34,7 @@ func main() {
     {
       "name": "神奈川県",
       "capital": "横浜市",
-      "population": 9116252
+      "population": 1111111
     }
   ]
 }
